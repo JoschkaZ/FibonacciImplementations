@@ -53,7 +53,5 @@ int main() {
   elapsed_secs = double(end - begin);
   cout << F << " - Time elapsed: " << elapsed_secs << endl << endl;
 
-
-
 return 0;
 }
